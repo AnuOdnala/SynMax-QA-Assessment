@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "text": "Prepare lunch",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "text": "Write test cases",
+    "completed": true
+  }
+]
